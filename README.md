@@ -29,6 +29,9 @@ Welcome to my GitHub! I'm Mohamed , a passionate engineer student with a love fo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" title="Perl" alt="Perl" width="40" height="40"/>
+  <br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/>
 </p>
 
 ### Tools
@@ -43,9 +46,10 @@ Welcome to my GitHub! I'm Mohamed , a passionate engineer student with a love fo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" title="Atom" alt="Atom" width="40" height="40"/>
+</p>
 
 ## Contact
 
-- **LinkedIn:** (https://www.linkedin.com/in/mohamed-amin-758744270/)
-- **Email:** [aminelcrack@gmail.com]
+- **LinkedIn:** [Mohamed Amin](https://www.linkedin.com/in/mohamed-amin-758744270/)
+- **Email:** [aminelcrack@gmail.com](mailto:aminelcrack@gmail.com)
 
