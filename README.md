@@ -48,6 +48,15 @@ Welcome to my GitHub! I'm Mohamed , a passionate engineer student with a love fo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" title="Atom" alt="Atom" width="40" height="40"/>
 </p>
 
+## GitHub Stats
+![Mohaelmes's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohaelmes&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohaelmes&layout=compact&theme=radical)
+
+## GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohaelmes&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Contact
 
 - **LinkedIn:** [Mohamed Amin](https://www.linkedin.com/in/mohamed-amin-758744270/)
